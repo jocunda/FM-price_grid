@@ -88,6 +88,10 @@ p {
     color: white;
     width: 220px;
     box-shadow: 2px 2px 10px grey;
+
+    &:hover {
+        font-weight: bolder;
+    }
 }
 
 .subtext {
